@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/CrescentVisor/sunnyside-landingpage)
-- Live Site URL: [Github Page](https://crescentvisor.github.io/sunnyside-landingpages)
+- Live Site URL: [Github Page](https://crescentvisor.github.io/sunnyside-landingpage)
 
 ## My process
 
